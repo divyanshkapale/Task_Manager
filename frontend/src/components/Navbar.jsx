@@ -1,6 +1,6 @@
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
-import { LogOut, CheckSquare, Plus } from 'lucide-react'; // Assuming I can use lucide-react, wait I didn't install it. I installed react-icons.
+
 
 // I will use react-icons
 import { FiLogOut, FiCheckSquare, FiPlus, FiUser } from 'react-icons/fi';
